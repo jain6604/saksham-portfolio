@@ -4,6 +4,7 @@ body {
 }
 
 .hero-ring text {
-  fill: #e6e0d8 !important;
-  opacity: 0.7;
+  fill: #d6ff38 !important;
+  font-weight: 600;
+  letter-spacing: 0.1em;
 }
